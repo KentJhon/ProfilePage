@@ -18,7 +18,7 @@ function LinkIcons({ iconColor }) {
         <Entypo
           name="instagram-with-circle"
           size={40}
-          color={iconColor} // Use the passed iconColor prop
+          color={iconColor}
           style={styles.icon}
         />
       </TouchableOpacity>
@@ -28,7 +28,7 @@ function LinkIcons({ iconColor }) {
         <Entypo
           name="facebook-with-circle"
           size={40}
-          color={iconColor} // Use the passed iconColor prop
+          color={iconColor}
           style={styles.icon}
         />
       </TouchableOpacity>
@@ -36,7 +36,7 @@ function LinkIcons({ iconColor }) {
         <AntDesign
           name="github"
           size={40}
-          color={iconColor} // Use the passed iconColor prop
+          color={iconColor}
           style={styles.icon}
         />
       </TouchableOpacity>

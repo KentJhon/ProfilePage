@@ -26,7 +26,7 @@ export default function App() {
     >
       <BackgroundProfilePic source={profilePicBGURL} />
       <View style={styles.profileContainer}>
-        <Profile source={userProzfilePicURL} />
+        <Profile source={userProfilePicURL} />
       </View>
       <View style={styles.profileLinkContainer}>
         <LinkIcons iconColor={darkMode ? "white" : "black"} />
